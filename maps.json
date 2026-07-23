@@ -15,6 +15,13 @@
       "version": 2
     },
     {
+      "name": "Rec Room - Dodgeball",
+      "author": "cmwowzers",
+      "description": "Couldn't find a model online so this was ripped from a BONELAB map",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/rec%20room%20-%20dodgeball",
+      "version": 2
+    },
+    {
       "name": "Bikini Bottom",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
